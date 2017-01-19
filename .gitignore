@@ -1,3 +1,10 @@
+# YCM files
+*.py
+# Ignore make file in labb2
+labb2/Makefile
+labb4/Makefile
+# tags
+tags
 # Object files
 *.o
 *.ko
