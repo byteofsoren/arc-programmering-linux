@@ -7,5 +7,5 @@ Using printf function from stdio.h
 
 then compile with gcc compiler.
 ```
-gcc -i main.c -o prog
+gcc main.c -o prog
 ```
